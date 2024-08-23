@@ -1,0 +1,7 @@
+- create html and js file and link the js file with the html
+- create an input element in js file and render in to the html
+- create an button element in js and render in to the html
+- add event listner or add onClick fn to the button
+  - while clicking the button get the value from the input field and store into an array in the js
+- create an div element and style as an box and render into the html
+- while cliking the box display the array element one by one
