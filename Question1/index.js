@@ -33,5 +33,5 @@ showNames.onclick = ()=>{
 root.appendChild(inputFiled)
 root.appendChild(button)
 root.appendChild(showNames)
-
+root.append()
 // there are still bugs to fix it I think it's enough for the day *_- 
